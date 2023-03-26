@@ -10,7 +10,7 @@ const Home = () => {
       <div className=' h-screen bg-black flex items-center justify-center ' >
         <div className=' flex text-white'>
           <div className=''>
-            <div className=' md:text-8xl text-6xl font-[700] ' >Lazim Hostel</div>
+            <div className=' text-4xl ml-6 md:text-8xl sm:text-5xl font-[700] ' >Lazim Hostel</div>
             <div className=' md:ml-32 ml-6 mt-3 text-xl'> "There is only one boss. the Guest."</div>
             <div className='   mt-6 text-2xl flex justify-center'>
               <a className=' px-3' href="https://api.whatsapp.com/message/O247N4BWIKF3F1?autoload=1&app_absent=0">
