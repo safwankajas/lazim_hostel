@@ -19,10 +19,10 @@ const Home = () => {
               <a className='px-3' href="https://www.instagram.com/lazi.m39/">
                 <AiOutlineInstagram />
               </a>
-              <a className='px-3' href="https://play.google.com/">
+              {/* <a className='px-3' href="https://play.google.com/">
               
                 <AiFillAndroid />
-              </a>
+              </a> */}
             </div>
           </div>
           <div className=' rounded md:h-40 ml-10 w-[5px]  h-28 bg-white'></div>
